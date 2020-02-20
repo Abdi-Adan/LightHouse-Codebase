@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  # font_awesome_flutter: ^8.7.0
+  font_awesome_flutter: ^8.7.0
 
 dev_dependencies:
   flutter_test:
@@ -21,7 +21,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/comm.jpg
-    - assets/harrywells.jpg
   # fonts:
   #   - family: Schyler
   #     fonts:
